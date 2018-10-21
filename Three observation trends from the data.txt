@@ -1,8 +1,0 @@
-This position is late. As you could probably tell by dates on git hub. I overlooked it as I was following the starter not the readme. I still wanted to throw my understanding of this data set in the ring.
-
-Three observations from Heroes of Pymoli Data set.
-1. While the 20-24 year old players spent the most money, the 35-39 year olds spent the most per person. Its possible this age group has more disposable income.
-
-2. Females on average would spend more money per purchase than males, while non-disclosed spent the most per purchase. Perhaps there is an untapped market for those that consider their gender other/Non-disclosed
-
-3. While the majority age group 20-24 has spent the most money in game. Their average per person is lower than other age groups. If the marketing plan is to market to current players in game. It would be best to focus marketing campaigns that relate to this generation.
